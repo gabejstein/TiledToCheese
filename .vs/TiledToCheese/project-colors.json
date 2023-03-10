@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8158fdd0-d519-4ed7-9a86-00bc60d67804": {
+      "ProjectGuid": "8158fdd0-d519-4ed7-9a86-00bc60d67804",
+      "DisplayName": "TiledToCheese",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

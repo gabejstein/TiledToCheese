@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Geibu\Documents\Visual Studio Projects\TiledToCheese\main.c(162,55): warning C4047: '=': 間接参照のレベルが 'cJSON *' と 'int' で異なっています。
+C:\Users\Geibu\Documents\Visual Studio Projects\TiledToCheese\main.c(163,45): warning C4047: '=': 間接参照のレベルが 'int' と 'cJSON *' で異なっています。
+  TiledToCheese.vcxproj -> C:\Users\Geibu\Documents\Visual Studio Projects\TiledToCheese\x64\Debug\TiledToCheese.exe
